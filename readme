@@ -1,0 +1,10 @@
+##Bienvenido al repositorio de mi tercer proyecto, el que consistía en realizar un DASHBOARD utilizando Javascript :hammer_and_wrench:, Axios, fetch, package Json, Chart.js, async, await, canvas. 
+
+la filosolfía que se utilizó es la siguiente:
+
+se realizó una plantilla HTML5, en donde incluya un Header, Body y un Footer, el Body posee un gráfico que agrupa las peliculas con mas votos, estableciendo un ranking, que se ve reflejado en un gráfico de barras, además posee una plantilla CSS de estilos.
+
+Toda la información que alimenta al gráfico de barras, es optenida de una API gratuita que entrega información respecto a peliculas.
+
+
+**Este es mi tercer proyecto del Bootcamp de la UDD, cada vez vamos aplicando mas herramientas que nos entregan para poder ir realizando nuestros proyectos. 
