@@ -38,8 +38,8 @@ const cargarPeliculas = async () => {
                     datasets: [{
                         label: 'Ranking de Películas',
                         data: votos,
-                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                        borderColor: 'rgba(75, 192, 192, 1)',
+                        backgroundColor: 'rgba(0, 7, 1, 0.57)',
+                        borderColor: 'rgba(0, 0, 0, 0)',
                         borderWidth: 1
                     }]
                 },
