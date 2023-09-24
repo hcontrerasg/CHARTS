@@ -158,11 +158,3 @@
     flex-wrap: wrap;
 }
 
-.carrusel{
-    width: 500px;
-    height: 400px;
-    margin-left: 300px;
-    position: relative; top: 40px;
-    flex-wrap: wrap;
-
-}
